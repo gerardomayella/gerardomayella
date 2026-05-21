@@ -1,9 +1,10 @@
 # 👨‍💻 Gerardo M Ardianta | Aspiring DevOps Engineer
 
-Passionate about Linux System Administration, Networking, Cloud Infrastructure, and Automating software delivery pipelines (CI/CD). 
+Passionate about Linux System Administration, Networking (including Delay-Tolerant Networks), Cloud Infrastructure, and Automating software delivery pipelines (CI/CD). 
 
 ## 🛠️ Tech Stack & Tools
-- **OS & Networking:** Linux (Ubuntu/Debian), SSH, Cisco/GNS3 Networking Concepts
+- **OS & Networking:** Linux (Ubuntu/Debian), SSH, Cisco/GNS3, Delay-Tolerant Networking (DTN) Concepts
+- **Simulation & Analysis:** The ONE Simulator (Opportunistic Network Environment)
 - **Containers & Orchestration:** Docker, Docker Compose
 - **CI/CD & Automation:** GitHub Actions, Git
 - **Languages:** Java, PHP, Bash Scripting
@@ -14,3 +15,6 @@ Passionate about Linux System Administration, Networking, Cloud Infrastructure, 
 - [ ] Deep dive into Container Orchestration (Kubernetes)
 - [ ] GitOps Continuous Delivery (ArgoCD)
 - [ ] Advanced Secrets & Security Management (HashiCorp Vault)
+
+## 🔬 Research & Network Simulation
+- **Delay-Tolerant Network Simulation:** Analyzing message routing efficiency, node movement patterns, and delivery predictability using **The ONE Simulator**.
